@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+# Regards, The Alveare Solutions society.
+#
+./scripts/shredder-bay.sh ./conf/shredder-bay.conf
